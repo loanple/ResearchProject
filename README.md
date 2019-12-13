@@ -78,5 +78,6 @@ library(ggplot2)
     
     res<-t.test(Fmswing_Scale ~ Group, data=data, var.equal=TRUE)
     res
+    "hi"
 
 
