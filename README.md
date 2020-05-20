@@ -1,3 +1,6 @@
+See R markdownfile: https://rpubs.com/loanple/ResearchDesign
+***
+
 # Experimental Research Design
 
 In my research design class at Columbia, we were given an assignment to write a research proposal to choose a management dilemma we wanted to address by conducting research analysis, collecting data, and choosing an analysis methodology. For the research, I chose to do an experimental study with a control and test group where only the test group would receive treatment. The study will be conducted on clinically depressed patients who will receive newly tested treatment pills to see if symptoms can be alleviated. The control group will receive a placebo pill while the test group will receive the real pills. After a six month trial, the sample will be surveyed on a Likert Scale from 1 - 5 to see if their frequency of mood swing has been lowered and if their overall mental state has been improved. 
